@@ -1,0 +1,18 @@
+body{
+    background-color: blanchedalmond;
+}
+.footer{
+    position: fixed;
+    color: beige;
+    bottom: 0;
+    width: 100%;
+    font-size: 20px;
+    background-color: darksalmon;
+    font-weight: bold;
+    line-height: 3;
+}
+button{
+    width: 120px;
+    margin: 10px;
+    font-weight: bold;
+}
